@@ -144,3 +144,5 @@ npx hardhat deploy --network goerli
 **Built with ❤️ for the developer community**
 
 *Empowering code quality through decentralized incentives*
+conatct address: 0x6f62839402b78548DAa91A077bC95BB0DcaD4db6
+file:///home/ustm/Pictures/Screenshots/Screenshot%20from%202025-07-29%2012-59-18.png
