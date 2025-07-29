@@ -145,4 +145,5 @@ npx hardhat deploy --network goerli
 
 *Empowering code quality through decentralized incentives*
 conatct address: 0x6f62839402b78548DAa91A077bC95BB0DcaD4db6
-file:///home/ustm/Pictures/Screenshots/Screenshot%20from%202025-07-29%2012-59-18.png
+<img width="1585" height="659" alt="Screenshot from 2025-07-29 12-59-18" src="https://github.com/user-attachments/assets/e4e31cd3-fc48-4426-80e5-12d3e94fc078" />
+
